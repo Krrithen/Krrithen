@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Covid-19 Tracker]**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -44,3 +44,34 @@
    <a href="https://github.com/Krrithen/github-readme-stats"><img alt="Krrithen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krrithen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </p>
+
+## 📊 My Github Stats
+<p align="center">
+  <br/>
+    <a href="https://github.com/Krrithen/github-readme-stats"><img alt="Krrithen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Krrithen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+     <a href="https://github.com/Krrithen/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Krrithen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Krrithen&theme=react&hide_border=true&stroke=0000&bg_color=0D1117"/>
+    </a>
+ <br/>
+
+<a href="https://github.com/Krrithen/github-readme-activity-graph"><img alt="Krrithen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Krrithen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+</p>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/krithin-r-5b29351b3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/krrithen_746/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Krrithen">
+</a>
+<a href="https://github.com/Krrithen?tab=followers"><img src="https://img.shields.io/github/followers/Krrithen?label=Followers&style=social" alt="GitHub Badge"></a>
