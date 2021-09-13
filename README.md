@@ -1,7 +1,7 @@
 <p align="center"><img align="center" alt="GIF" src="https://github.com/Krrithen/Krrithen/blob/main/desk1.gif" /></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krrithen</h1>
-<h3 align="center">I'm a passionate Machine Learning Developer from India.</h3>
+<h3 align="center">I'm a 2nd-year undergrad student pursuing a Bachelors in Information Science from NHCE Bangalore. I'm an Aspiring SDE & a passionate Machine Learning Developer from India.</br>| ᴅᴏɴ’ᴛ ᴡɪꜱʜ ꜰᴏʀ ɪᴛ... ᴡᴏʀᴋ ꜰᴏʀ ɪᴛ |</h3>
 
 ## 🙋‍♂️ About Me
 
