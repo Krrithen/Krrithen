@@ -1,4 +1,4 @@
-<p align="center"><img align="center" alt="GIF" src="https://github.com/Krrithen/Krrithen/blob/main/desk1.gif" /></p>
+<p align="center"><img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /></p>
 
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Krrithen</h2>
 <h4 align="center">I'm a Master's student in Computer Science at the University of Illinois Chicago, with a Bachelor's in Information Science & Engineering from NHCE, India. As an aspiring Software Development Engineer (SDE) passionate about web development, distributed systems, and machine learning, I strive to build efficient, scalable, and innovative solutions.
