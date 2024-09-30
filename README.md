@@ -6,13 +6,13 @@
 
 ### 🙋‍♂️ About Me
 
-👨‍💻 I am currently pursuing a Master’s in Computer Science at the University of Illinois Chicago, with previous experience as a Software Developer at Quinbay Technologies in Bangalore.
-💡 I enjoy exploring new technologies and developing efficient, scalable software solutions.
-🎓 I completed my Bachelor’s in Information Science & Engineering from New Horizon College of Engineering.
-🌱 I’m actively learning more about system design, advanced algorithms, and GenAI.
-✍️ In my free time, I enjoy working on personal web development projects and exploring game development with C#.
-💬 Feel free to reach out to me for collaborations, consulting, or even just a tech discussion.
-✉️ You can reach me at krithin2525@gmail.com! I'll get back to you as soon as I can.
+- 👨‍💻 I am currently pursuing a Master’s in Computer Science at the University of Illinois Chicago, with previous experience as a Software Developer at Quinbay Technologies in Bangalore.
+- 💡 I enjoy exploring new technologies and developing efficient, scalable software solutions.
+- 🎓 Completed my Bachelor’s in Information Science & Engineering from New Horizon College of Engineering.
+- 🌱 I’m actively learning more about system design, advanced algorithms, and GenAI.
+- ✍️ In my free time, I enjoy working on personal web development projects and exploring game development with C#.
+- 💬 Feel free to reach out to me for collaborations, consulting, or even just a tech discussion.
+- ✉️ You can reach me at krithin2525@gmail.com! I'll get back to you as soon as I can.
 
 <br/>
 
@@ -103,7 +103,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/krithin-r-5b29351b3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/krithinr/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/krrithen_746/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
