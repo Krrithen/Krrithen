@@ -13,6 +13,14 @@
 - ✍️ In my free time, I enjoy working on personal web development projects and exploring game development with C#.
 - 💬 Feel free to reach out to me for collaborations, consulting, or even just a tech discussion.
 - ✉️ You can reach me at krithin2525@gmail.com! I'll get back to you as soon as I can.
+<br/>
+
+### 📚 Research Work
+
+**Social Distance Detection Using CNN:** [IJSRSET](https://res.ijsrset.com/page.php?param=IJSRSET12291118)
+
+**A Distinguished Approach towards Automated Accident Detection:** [The Grenze](https://thegrenze.com/index.php?display=page&view=journalabstract&absid=1961&id=8)
+
 
 <br/>
 
