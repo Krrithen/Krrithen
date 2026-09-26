@@ -10,12 +10,43 @@
 
 ---
 
+### 🚧 Currently Building
+<table><tr><td>
+<b><a href="https://github.com/Krrithen/cairn">cairn</a></b> · Redis-compatible key-value server in Go<br/>
+<sub>Sep 2026: starting RESP parser · <i>next: TCP server + concurrent clients</i></sub>
+</td></tr></table>
+
+<br/>
+
+### 🔧 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/Krrithen/Distributed-ECommerce-Microservices">🛒 Distributed E-Commerce</a></b><br/>
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+<p>Event-driven microservices where a Kafka CQRS pipeline decouples catalog writes from search indexing.</p>
+</td>
+<td width="50%" valign="top">
+<b><a href="https://github.com/Krrithen/Cloud-Monitoring-Alerting">📡 Cloud Monitoring & Alerting</a></b><br/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<p>Containerized Prometheus, Grafana, Node Exporter and Alertmanager stack for pull-based host metrics.</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
 ### ⚡ Core Engineering Focus
 
 - **Distributed Systems:** Architecting event-driven microservices (Spring Boot, gRPC) and managing high-volume data streams (Apache Kafka).
 - **Search & Retrieval:** Optimizing full-text search and inverted indexes (Elasticsearch, Apache Solr).
 - **AI Infrastructure:** Building production-ready RAG pipelines, managing vector embeddings (Pinecone), and orchestrating agentic workflows (LangGraph).
-- **Low-Level Systems:** Implementing concurrent networking protocols (TCP sockets) and custom parsers in Python.
+- **Low-Level Systems:** Building a Redis-compatible server in Go: RESP parser and TCP server ([cairn](https://github.com/Krrithen/cairn)).
 - **Observability:** Deploying cloud-native telemetry and automated alerting (Prometheus, Grafana, CloudWatch).
 
 <br/>
@@ -55,12 +86,3 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-<br/>
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krrithen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krrithen&layout=compact&langs_count=5&theme=algolia"/>
-</p>
