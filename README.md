@@ -30,11 +30,12 @@
 <p>Event-driven microservices where a Kafka CQRS pipeline decouples catalog writes from search indexing.</p>
 </td>
 <td width="50%" valign="top">
-<b><a href="https://github.com/Krrithen/Cloud-Monitoring-Alerting">📡 Cloud Monitoring & Alerting</a></b><br/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<p>Containerized Prometheus, Grafana, Node Exporter and Alertmanager stack for pull-based host metrics.</p>
+<b><a href="https://github.com/Krrithen/MemoirAI">🎙️ Memoir AI</a></b><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<p>Local-first voice journal: faster-whisper transcribes a recording and a local Ollama model turns it into a titled, emotion-tagged story, with no API keys or cloud services.</p>
 </td>
 </tr>
 </table>
